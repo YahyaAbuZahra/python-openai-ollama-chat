@@ -12,8 +12,8 @@ This is a simple program that lets you ask questions to two AI models:
 - Python version 3.8 or higher  
 - `openai` library (install by running `pip install openai`)  
 - `requests` library (install by running `pip install requests`)  
-- Ollama server running on your computer at `http://localhost:11434` (only if you want to use LLaMA locally)!
-[images/output_example.png]()
+- Ollama server running on your computer at `http://localhost:11434` (only if you want to use LLaMA locally)![Output Example](images/output_example.png)
+
 
 
 ---
